@@ -25,18 +25,20 @@
 - **开发工具**：PyCharm
 
 ## 📁 项目结构
+
+```bash
 global-superstore-sales-analysis/
 ├── superstore_analysis.py          # 主分析脚本（包含 EDA、RFM、Prophet）
-├── output/                         # 生成的所有图表（6张高清 PNG）
-│   ├── 1_monthly_sales_trend.png
-│   ├── 2_region_sales.png
-│   ├── 3_return_rate_by_category.png
-│   ├── 4_rfm_segments.png
-│   ├── 5_prophet_sales_forecast.png
-│   └── 6_prophet_components.png
-├── requirements.txt
+├── requirements.txt                # 项目依赖包
 ├── .gitignore
-└── README.md
+├── README.md
+└── output/                         # 生成的所有分析图表（6张高清 PNG）
+    ├── 1_monthly_sales_trend.png
+    ├── 2_region_sales.png
+    ├── 3_return_rate_by_category.png
+    ├── 4_rfm_segments.png
+    ├── 5_prophet_sales_forecast.png
+    └── 6_prophet_components.png
 
 
 ## 🚀 如何运行项目
