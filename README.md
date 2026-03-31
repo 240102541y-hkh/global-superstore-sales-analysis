@@ -4,8 +4,6 @@
 
 这个项目对全球超市（Global Superstore）销售数据进行了全面分析，包括数据清洗、可视化探索、**RFM 客户分层**和高价值客户识别，以及使用 **Prophet** 模型对下季度销售额进行预测。
 
-### 月度销售趋势
-![Monthly Sales Trend](output/1_monthly_sales_trend.png)
 
 ## 📊 核心业务洞察
 
